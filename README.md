@@ -25,6 +25,7 @@ some legends in the programming world who inspire me:
 
 - Dennis Ritchie 🗿 – the father of c and unix, thanks for C !
 - Linus Torvalds 🗿 – W chad creator of the linux kernel and git .
+- Terry A. Davis 🗿 - Creator of TempleOS and HolyC, absolute chad .
   
 ## <img src="https://github.com/user-attachments/assets/f6bbd42c-bc15-4aef-b22b-d09a764da958" alt="cattolaptop" width="60"> Setup🫡
 
